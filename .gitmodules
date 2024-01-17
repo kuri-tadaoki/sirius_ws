@@ -1,0 +1,21 @@
+[submodule "DynamixelSDK"]
+	path = DynamixelSDK
+	url = https://github.com/ROBOTIS-GIT/DynamixelSDK.git
+[submodule "ecl_core"]
+	path = ecl_core
+	url = https://github.com/stonier/ecl_core.git
+[submodule "ecl_lite"]
+	path = ecl_lite
+	url = https://github.com/stonier/ecl_lite.git
+[submodule "ecl_toos"]
+	path = ecl_toos
+	url = https://github.com/stonier/ecl_tools.git
+[submodule "ecl_tools"]
+	path = ecl_tools
+	url = https://github.com/stonier/ecl_tools.git
+[submodule "kobuki_ros_interfaces"]
+	path = kobuki_ros_interfaces
+	url = https://github.com/kobuki-base/kobuki_ros_interfaces.git
+[submodule "laser_proc"]
+	path = laser_proc
+	url = https://github.com/ros-perception/laser_proc.git

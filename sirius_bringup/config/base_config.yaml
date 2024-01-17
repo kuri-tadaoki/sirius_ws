@@ -1,0 +1,11 @@
+sirius:
+  static_tf2_broadcaster:
+    ros__parameters:
+      parent_frame: "base_footprint"
+      child_frame: "base_link"
+      translation_x: 0.0
+      translation_y: 0.0
+      translation_z: 0.0
+      rotation_x: 0.0
+      rotation_y: 0.0
+      rotation_z: 0.0
